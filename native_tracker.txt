@@ -957,6 +957,7 @@
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 asia-vcode-od.vivoglobal.com.w.cdngslb.com
 0.0.0.0 asia-vcode-od.vivoglobal.com
+0.0.0.0 asia-vcode-api.vivoglobal.com.w.cdngslb.com
 0.0.0.0 asia-exappupgrade.vivoglobal.com
 0.0.0.0 asia-st-exappupgrade.vivoglobal.com
 #
