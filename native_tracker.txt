@@ -2691,3 +2691,4 @@
 0.0.0.0 pics.taobaocdn.com
 0.0.0.0 strip.taobaocdn.com
 0.0.0.0 atomile.com
+0.0.0.0 allawnos.com
