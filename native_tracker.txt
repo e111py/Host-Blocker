@@ -955,6 +955,7 @@
 0.0.0.0 pnrt.stsdk.vivoglobal.com
 0.0.0.0 prt.stsdk.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
+0.0.0.0 asia-vcode-od.vivoglobal.com.w.cdngslb.com
 #
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
