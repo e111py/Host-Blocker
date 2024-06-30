@@ -956,6 +956,9 @@
 0.0.0.0 prt.stsdk.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 asia-vcode-od.vivoglobal.com.w.cdngslb.com
+0.0.0.0 asia-vcode-od.vivoglobal.com
+0.0.0.0 asia-exappupgrade.vivoglobal.com
+0.0.0.0 asia-st-exappupgrade.vivoglobal.com
 #
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -2554,3 +2557,7 @@
 127.0.0.1 s1.2mdn.net
 127.0.0.1 media.admob.com
 127.0.0.1 ssl.google-analytics.com
+#
+
+#Extra
+0.0.0.0 taobao.com
