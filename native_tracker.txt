@@ -961,6 +961,8 @@
 0.0.0.0 asia-vcode-api.vivoglobal.com.w.cdngslb.com
 0.0.0.0 asia-exappupgrade.vivoglobal.com
 0.0.0.0 asia-st-exappupgrade.vivoglobal.com
+0.0.0.0 asia-vnote.vivoglobal.com
+0.0.0.0 asia-vcode-or.vivoglobal.com
 #
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -2688,3 +2690,4 @@
 0.0.0.0 metric.webv.taobao.com
 0.0.0.0 pics.taobaocdn.com
 0.0.0.0 strip.taobaocdn.com
+0.0.0.0 atomile.com
