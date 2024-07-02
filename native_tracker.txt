@@ -967,6 +967,7 @@
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-magazineunlock.vivoglobal.com
 0.0.0.0 vcardtrafficglobal.vivo.com.w.alikunlun.com
+127.0.0.1 asia-vcode-api.vivoglobal.com
 #
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
