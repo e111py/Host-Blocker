@@ -472,6 +472,7 @@
 0.0.0.0 api.zhuti.xiaomi.com
 0.0.0.0 m.zhuti.xiaomi.com
 0.0.0.0 matrix-pri-alisgp.alb.xiaomi.com
+0.0.0.0 us.galleryapi.micloud.xiaomi.net
 #
 
 # Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -964,6 +965,7 @@
 0.0.0.0 asia-vnote.vivoglobal.com
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-magazineunlock.vivoglobal.com
+0.0.0.0 vcardtrafficglobal.vivo.com.w.alikunlun.com
 #
 
 # Title: HaGeZi's Windows/Office Tracker DNS Blocklist
