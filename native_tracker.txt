@@ -473,6 +473,7 @@
 0.0.0.0 m.zhuti.xiaomi.com
 0.0.0.0 matrix-pri-alisgp.alb.xiaomi.com
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
+0.0.0.0 sgp-cdn.video.intl.xiaomi.com.ksyna.net
 #
 
 # Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -2700,3 +2701,4 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbpigeon.com
+0.0.0.0 cehe9z-launches.appsflyersdk.com
