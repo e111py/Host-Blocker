@@ -2699,3 +2699,4 @@
 0.0.0.0 analytics-prod-gcp.ff.avast.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbpigeon.com
