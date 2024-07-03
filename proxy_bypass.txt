@@ -603,7 +603,6 @@
 127.0.0.1 connectionvpn.com
 127.0.0.1 contassh.com
 127.0.0.1 contentabc.com
-127.0.0.1 freedns.controld.com
 127.0.0.1 cool-proxy.net
 127.0.0.1 corecloak.com
 127.0.0.1 coverproxy.com
@@ -3427,13 +3426,6 @@
 127.0.0.1 dns.east.comss.one
 127.0.0.1 dns1.conne.net
 127.0.0.1 dns.connect.fail
-127.0.0.1 freedns.controld.com
-127.0.0.1 family.freedns.controld.com
-127.0.0.1 p0.freedns.controld.com
-127.0.0.1 p1.freedns.controld.com
-127.0.0.1 p2.freedns.controld.com
-127.0.0.1 p3.freedns.controld.com
-127.0.0.1 uncensored.freedns.controld.com
 127.0.0.1 doh.cox.net
 127.0.0.1 dot.cox.net
 127.0.0.1 dohdot.coxlab.net
