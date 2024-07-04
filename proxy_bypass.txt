@@ -2167,7 +2167,6 @@
 127.0.0.1 dnspub.restena.lu
 127.0.0.1 kaitain.restena.lu
 127.0.0.1 dns.retakecs.com
-127.0.0.1 rethinkdns.com
 127.0.0.1 revko.info
 127.0.0.1 doh.rezhajul.io
 127.0.0.1 resolver.rferee.dev
@@ -4127,10 +4126,6 @@
 127.0.0.1 dnspub.restena.lu
 127.0.0.1 kaitain.restena.lu
 127.0.0.1 dns.retakecs.com
-127.0.0.1 rethinkdns.com
-127.0.0.1 basic.rethinkdns.com
-127.0.0.1 max.rethinkdns.com
-127.0.0.1 sky.rethinkdns.com
 127.0.0.1 doh.rezhajul.io
 127.0.0.1 resolver.rferee.dev
 127.0.0.1 ricko.is
