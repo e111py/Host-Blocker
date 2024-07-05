@@ -1635,11 +1635,6 @@
 127.0.0.1 newshosting.com
 127.0.0.1 meteor.newsofmaricopa.com
 127.0.0.1 doh.luigi.nexific.it
-127.0.0.1 dns.nextdns.io
-127.0.0.1 dns1.nextdns.io
-127.0.0.1 dns2.nextdns.io
-127.0.0.1 edge.nextdns.io
-127.0.0.1 steering.nextdns.io
 127.0.0.1 ngrok.app
 127.0.0.1 ngrok.com
 127.0.0.1 ngrok.dev
@@ -3268,7 +3263,6 @@
 127.0.0.1 doh.mullvad.net
 127.0.0.1 adblock.doh.mullvad.net
 127.0.0.1 www.muxyuji.ru
-127.0.0.1 anycast.dns.nextdns.io
 127.0.0.1 chromium.dns.nextdns.io
 127.0.0.1 firefox.dns.nextdns.io
 127.0.0.1 family.dns.ningkelle.id
